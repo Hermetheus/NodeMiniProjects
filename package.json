@@ -1,0 +1,23 @@
+{
+  "name": "node-mini-scripts",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000N\u0000o\u0000d\u0000e\u0000M\u0000i\u0000n\u0000i\u0000P\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000s\u0000\r\u0000 \u0000",
+  "main": "buffer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hermetheus/NodeMiniProjects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hermetheus/NodeMiniProjects/issues"
+  },
+  "homepage": "https://github.com/Hermetheus/NodeMiniProjects#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
